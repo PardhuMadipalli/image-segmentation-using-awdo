@@ -11,13 +11,15 @@ All the codes are written in Matlab 2015 version.
 
 ## Reference Paper
 
-The paper regarding the project has been presented at the conference **National Conference on Communications - 2018, IIT Hyderabad, India**
+P. Madipalli, S. Kotta, H. Dadi, N. Y, A. C S and A. V. Narasimhadhan, _"Automatic Segmentation of Intima Media Complex in Common Carotid Artery using Adaptive Wind Driven Optimization,"_ 2018 Twenty Fourth National Conference on Communications (NCC), Hyderabad, 2018, pp. 1-6.
+
+doi: 10.1109/NCC.2018.8600240 
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600240&isnumber=8599880
 
 ## Disclaimer
 
 Any publication using the following code or in anyway has related to the project has to cite the above mentioned publication. 
-
-
 
 
 Additional Detaiils
