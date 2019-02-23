@@ -12,10 +12,17 @@ furnished to do so, subject to the following conditions:
 - The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-- The conference paper titled "Fully Automatic Segmentation of Intima Media Complex
- in Common Carotid Artery Using Adaptive Wind Driven Optimization" presented at
-"National Conference on Communications - 2018" at IIT Hyderabad has to be cited in
-any publication, patent, or any free or commercial use. 
+- The following paper has to be cited in any publication, patent, or any free or commercial use. 
+
+### Reference paper
+
+P. Madipalli, S. Kotta, H. Dadi, N. Y, A. C S and A. V. Narasimhadhan, _"Automatic Segmentation of Intima Media Complex in Common Carotid Artery using Adaptive Wind Driven Optimization,"_ 2018 Twenty Fourth National Conference on Communications (NCC), Hyderabad, 2018, pp. 1-6.
+
+doi: 10.1109/NCC.2018.8600240 
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600240&isnumber=8599880 
+
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
