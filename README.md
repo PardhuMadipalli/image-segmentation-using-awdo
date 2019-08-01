@@ -2,7 +2,7 @@ Fully automatic segmentation of ultrasound common carotid artery images using Ad
 ==================================
 
 ### Author: Pardhu M
-### contact: pardhu.madipalli@outlook.com
+### contact: pardhu1212@gmail.com
 
 
 ## Code details
